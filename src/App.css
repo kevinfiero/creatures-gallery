@@ -79,3 +79,6 @@ label{
   border: 1px solid black;
 }
 
+#filter-label{
+  margin-right: 5px;
+}
